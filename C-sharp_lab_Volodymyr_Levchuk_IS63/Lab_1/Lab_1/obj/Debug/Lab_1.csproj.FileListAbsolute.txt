@@ -1,0 +1,12 @@
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+E:\STUDY\V semester\C-sharp\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_1\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
