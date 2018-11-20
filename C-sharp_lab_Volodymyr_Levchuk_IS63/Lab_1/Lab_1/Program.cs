@@ -16,6 +16,8 @@ namespace Lab_1
             SystemCoder secondCoder = new SecondTypeCoder("Другий кодер");
             Coder secondTypeCoding = secondCoder.CreateCoder();
 
+
+
             while (true)
             {
 
