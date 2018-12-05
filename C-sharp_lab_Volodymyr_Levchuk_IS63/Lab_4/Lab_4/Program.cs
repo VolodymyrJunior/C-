@@ -83,11 +83,11 @@ namespace Lab_4
                      where y.vehicleFleet.StartsWith("1")
                      select y;
             
-            ////
             foreach(var x in query6.Concat(query7))
             {
                 Console.WriteLine(x.model +" " + x.vehicleFleet);
             }
+
             Console.WriteLine("6.Обьеденение выборки уникальных автомобилей шифр которых начинается с 2 ");
             foreach (var x in query6.Union(query6))
             {
