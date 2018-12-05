@@ -1,0 +1,6 @@
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
