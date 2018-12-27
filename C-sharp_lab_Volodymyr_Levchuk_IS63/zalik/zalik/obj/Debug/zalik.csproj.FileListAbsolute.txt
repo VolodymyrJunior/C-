@@ -1,0 +1,6 @@
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\bin\Debug\zalik.exe.config
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\bin\Debug\zalik.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\bin\Debug\zalik.pdb
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\obj\Debug\zalik.csprojResolveAssemblyReference.cache
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\obj\Debug\zalik.exe
+E:\STUDY\V semester\C-sharp\C-sharp_lab_Volodymyr_Levchuk_IS63\zalik\zalik\obj\Debug\zalik.pdb
